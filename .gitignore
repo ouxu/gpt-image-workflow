@@ -1,0 +1,14 @@
+node_modules/
+__pycache__/
+*.pyc
+.runtime-*.mjs
+.env
+.env.*
+config.json
+*.local.json
+outputs/
+dist/
+*.png
+*.jpg
+*.webp
+.DS_Store

@@ -1,0 +1,10 @@
+{
+  "name": "@ouxu/fixed-gpt-image",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Deterministic custom-provider image workflow with a companion agent skill",
+  "license": "MIT",
+  "engines": {"node": ">=18"},
+  "scripts": {"test": "python3 -m unittest discover -s tests -v"},
+  "dependencies": {"@zhoujinandrew/gpt-image-cli": "1.3.0", "node-fetch": "2.7.0"}
+}
